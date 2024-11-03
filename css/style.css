@@ -513,3 +513,14 @@
     padding-right: 0;
     border-right: none;
 }
+
+.email-link {
+    color: black; /* Makes the text color black */
+    text-decoration: none; /* Removes the underline */
+    font-weight: normal; /* Makes the text bold, optional */
+}
+
+.email-link:hover {
+    text-decoration: underline; /* Adds underline on hover */
+    color: #555; /* Optional: Changes color on hover */
+}
