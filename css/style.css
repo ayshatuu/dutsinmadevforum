@@ -213,6 +213,7 @@
     color: #FFFFFF;
 }
 
+
 @media (max-width: 1200px) {
     .text-dtm {
         font-size: 6rem; /* Medium screen size */
